@@ -53,4 +53,4 @@ This project showcases an interactive dashboard built to analyze customer purcha
 
 -Ability to filter results dynamically for more personalized insights.
 
--Visual Representation of dashboard-
+-Visual Representation of dashboard- https://github.com/thatsvasu44/Bike-sales-analysis/blob/main/Snapshot%20of%20Bikesales%20Dashboard.jpg
